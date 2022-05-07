@@ -1,2 +1,3 @@
-# interview
-This repository is specific to prepare myself for the incoming interviews
+# Wiki
+
+[Data Structures and Algorithms](https://github.com/AlexandreYembo/interview/wiki/Data-Structures-and-Algorithms)
