@@ -43,10 +43,9 @@ namespace Interview
         {
             return new List<(string operation, string folder, string className)>()
             {
-                ("1", "Data Structures.Arrays", "Two Sum")
+                ("1", "Data Structures.Arrays", "Two Sum"),
+                ("11", "Design Patterns.Behaviour", "Mediator")
             };
         }
-
-       
     }
 }

@@ -51,6 +51,7 @@ namespace Interview.Code.DataStructures.Arrays
             if (nums == null || arrLength < 2)
                 return Array.Empty<int>();
 
+
             var dictionary = new Dictionary<int, int>();
 
             for (int i = 0; i < arrLength; i++)
